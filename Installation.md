@@ -26,7 +26,7 @@ ________________________________________________________________
 
 To install it click on the green button "Clone or download". Extract all the files in custom.
 If you wish to change it go into tf2hitsounds/sound/ui/ ; delete Hitsound.wav and replace it by another hitsound file. 
-Make sure you name it Hitsound.wav
+Make sure you name it hitsound.wav
 
 ________________________________________________________________
 
